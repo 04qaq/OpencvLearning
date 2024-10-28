@@ -1,4 +1,4 @@
 # OpencvLearning
-Translation: Small practice projects related to OpenCV.\n
+Translation: Small practice projects related to OpenCV.
 Environment requirements：python
                           opencv
