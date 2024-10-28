@@ -7,7 +7,7 @@ def cv2_show(img,name = 'test'):
     cv2.waitKey(0)
     cv2.destroyAllWindows()
 
-img = cv2.imread('python\\opencv\\test.png')//路径自己修改
+img = cv2.imread('python\\opencv\\test.png')#路径自己修改
 if img.shape[0]>2048 or img.shape[1]>2048:
     x = int(img.shape[0])
     y  =int(img.shape[1])
